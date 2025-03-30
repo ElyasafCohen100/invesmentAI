@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\elyas\\source\\repos\\invesmentAIBFF\\invesmentAIBFF.csproj": {}
+    "C:\\Users\\elyas\\source\\repos\\invesmentAI\\backend\\invesmentAIBFF.csproj": {}
   },
   "projects": {
-    "C:\\Users\\elyas\\source\\repos\\invesmentAIBFF\\invesmentAIBFF.csproj": {
+    "C:\\Users\\elyas\\source\\repos\\invesmentAI\\backend\\invesmentAIBFF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elyas\\source\\repos\\invesmentAIBFF\\invesmentAIBFF.csproj",
+        "projectUniqueName": "C:\\Users\\elyas\\source\\repos\\invesmentAI\\backend\\invesmentAIBFF.csproj",
         "projectName": "invesmentAIBFF",
-        "projectPath": "C:\\Users\\elyas\\source\\repos\\invesmentAIBFF\\invesmentAIBFF.csproj",
+        "projectPath": "C:\\Users\\elyas\\source\\repos\\invesmentAI\\backend\\invesmentAIBFF.csproj",
         "packagesPath": "C:\\Users\\elyas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elyas\\source\\repos\\invesmentAIBFF\\obj\\",
+        "outputPath": "C:\\Users\\elyas\\source\\repos\\invesmentAI\\backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\elyas\\AppData\\Roaming\\NuGet\\NuGet.Config",
